@@ -6,7 +6,7 @@
 
 
 
-**_ACLARACIÓN_**: Las configuraciones enumeradas a continuación siguen la sintaxis <Disco Duro>-<RAID utilizado>-<Sistema de ficheros>.
+**_ACLARACIÓN_**: Las configuraciones enumeradas a continuación siguen la sintaxis `Disco Duro`-`RAID utilizado`-`Sistema de ficheros`.
 
 Se estudió el rendimiento de los siguientes escenarios/configuraciones:
 
